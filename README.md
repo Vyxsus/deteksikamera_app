@@ -1,16 +1,13 @@
-# deteksikamera_app
+# 📱 DeteksiKamera App
 
-A new Flutter project.
+Aplikasi Flutter yang mendeteksi tulisan dari kertas menggunakan kamera HP (OCR via MLKit).
 
-## Getting Started
+## 🎥 Demo
 
-This project is a starting point for a Flutter application.
+[![Demo Video](https://img.youtube.com/vi/apT1yMAlHew/0.jpg)](https://www.youtube.com/watch?v=apT1yMAlHew)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Fitur:
+- Ambil gambar dari kamera
+- Deteksi teks otomatis
+- Copy hasil deteksi
+- UI sederhana dan responsif
